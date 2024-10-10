@@ -1,0 +1,14 @@
+.header {
+    background-color: #000; /* Color negro */
+    padding: 20px;
+    text-align: center;
+}
+.header img {
+    width: 150px; /* Tamaño de la imagen */
+}
+.search-bar {
+    margin-top: 20px;
+} 
+body{
+    background-image: url(../IMG/fondo.jpg);
+}
